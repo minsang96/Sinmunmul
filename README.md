@@ -40,31 +40,28 @@
     * KoBERT : 감정 분석을 위해 사용
 <br/>
 
-### :ship: 배포 환경
-    URL : [https://j6a406.p.ssafy.io/]
-<br/>
 <br/>
 
 ## 팀원 소개 
 <table>
   <tr height="100px">
     <td align="center" width="15%">
-      <img src="/uploads/9f8342fb55906d0acf5becd196bcd815/임재현.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/69743476/162619498-df8d14a9-ea18-4063-a847-aac9d78b9da2.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/040dbaa665fa16ff2d331ff81138e550/김하영.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/69743476/162619504-f3d9925a-e322-4992-8fff-79b47646b149.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/6a03fcf074f519531b443703b6622e00/배용한.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/69743476/162619507-6f50c96e-082e-4c1f-8f47-698b6db345a6.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/50b904954fb5a9e184e3e985f363993c/손수연.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/69743476/162619509-e9c39a07-4539-4ce0-b664-618aee56af3e.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/d25860b0128eace18acaa0dd757a6019/유민상.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/69743476/162619511-8a80063c-ff75-4fb6-8e45-f2ab441d32cc.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/ceb7f0aea9925d8c04b533221cdb87a6/허은아.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/69743476/162619513-7b4e18a3-1381-4673-a01d-032e64ae546a.jpg"/></a>
     </td>
   </tr>
   <tr height="70px">
@@ -134,8 +131,8 @@
 <br/>
 <br/>
 
-### 🚩 시스템 구성도
-![SYSTEM.png](/uploads/ce1c94c34d8b2e43e4e63e2e99367ce8/시스템_구성도.png)
+### 🚩 시스템 구성도!
+![SYSTEM.png](https://user-images.githubusercontent.com/69743476/162619542-3dfa6313-1b72-46bb-b9f5-54d6bd3e2724.png)
 <br/><br/>
 
 ### 🎫 ERD 
@@ -150,7 +147,7 @@
   * 워드클라우드를 저장한 news_wordcloud 테이블
   * 사용자의 뉴스 스크랩을 저장한 scrap 테이블
 
-![ERD_TABEL.png](/uploads/b60ea236f1ddff43569d7cf59dd6bf93/ERD.png)
+![ERD_TABEL.png](https://user-images.githubusercontent.com/69743476/162619553-fd0708a0-932a-46a5-ac62-78de311ca599.png)
 <br/><br/>
 
 ### 🥊 프로젝트 차별점/독창성 (기술관점)  
